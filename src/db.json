@@ -1,0 +1,1002 @@
+[
+  {
+    "type": "Concept",
+    "point": 2,
+    "category": "Individual",
+    "answer": "Acclimatization",
+    "definition": "The gradual and often reversible change in an organism due to its environmental changes or stressors. e.g. Salmon adapt to different salinity levels as they migrate from saltwater to freshwater.",
+    "source": "Aidan Ford, Acclimatization in Biology, study.com",
+    "img": "https://seahistory.org/wp-content/uploads/Salmon-anatomy.jpg",
+    "played": 0
+  },
+  {
+    "type": "Concept",
+    "point": 2,
+    "category": "Population",
+    "answer": "Active Dispersal",
+    "definition": "The movement of an individual by its own means away from the population in which it was born to another location.",
+    "source": "NA (paraphrased)",
+    "img": "https://storage.googleapis.com/plos-corpus-prod/10.1371/journal.pone.0037403/1/pone.0037403.g001.PNG_M?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=wombat-sa%40plos-prod.iam.gserviceaccount.com%2F20231124%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20231124T042536Z&X-Goog-Expires=86400&X-Goog-SignedHeaders=host&X-Goog-Signature=6cb42c1aad0cd0828fec3c8a8945741224e14d6df53f6efd81fb0a0ad517f126a665d47bc1bfc6fe719e36af994a82c2e4bbf3aaf505a4e82e8eea67072a5ec68de5ec35b3cd88752415cb939763dfe27b2844ab0d40499e4725c62c93ceaf7d0d3388016dbc29caecab6be4a40e8955c225f404a3fd264947db0df7662f65b8ec69d5908e1d47216ef13b7a5506531b08907d9e437ab7fafa18cc5dd45cf88b5d473450efce6360a3154a3b4df006174776f573eb53213cb24b7d62d33733956734e38bc79dc0b5657bf6f5f6c3e5c22d097d63e0fedafac0866c5131aabc9c52f724245c0f1b0bec8858b3bb966e1d6fd4463a37ef2d678193067894666bf8",
+    "played": 0
+  },
+  {
+    "type": "Concept",
+    "point": 2,
+    "category": "Biosphere",
+    "answer": "Adaptive Radiation",
+    "definition": "Evolution of an animal or plant group into a wide variety of types adapted to specialized modes of life.",
+    "source": "britannica.com",
+    "img": "https://d2cyt36b7wnvt9.cloudfront.net/exams/wp-content/uploads/2021/07/28175526/image1273.png",
+    "played": 0
+  },
+  {
+    "type": "Concept",
+    "point": 5,
+    "category": "Ecosystem",
+    "answer": "Allelopathy",
+    "definition": "A common biological phenomenon by which one organism produces biochemicals that influence the growth, survival, development, and reproduction of other organisms.",
+    "source": "Fang Cheng & Zhihui Cheng, Research Progress on the use of Plant Allelopathy in Agriculture and the Physiological and Ecological Mechanisms of Allelopathy, frontiersin.org",
+    "img": "https://onlinelibrary.wiley.com/cms/asset/01cb2130-98ca-4705-ac98-37f52be9ae62/wbm12230-fig-0001-m.jpg",
+    "played": 0
+  },
+  {
+    "type": "Concept",
+    "point": 2,
+    "category": "Ecosystem",
+    "answer": "Amazon Rainforest",
+    "definition": "The world?�?s largest rainforest, which accounts for more than half the total volume of rainforests in the world.",
+    "source": "education.nationalgeographic.org",
+    "img": "https://c02.purpledshub.com/uploads/sites/41/2023/05/Map-of-the-Amazon-9858996.jpg?webp=1",
+    "played": 0
+  },
+  {
+    "type": "Concept",
+    "point": 3,
+    "category": "Community",
+    "answer": "Apparent Competition",
+    "definition": "Occurs when two individuals that do not directly compete for resources affect each other indirectly by being prey for the same predator.",
+    "source": "Hatcher et al. 2006",
+    "img": "https://www.mn.uio.no/cees/english/outreach/blogs/marine-science/stige-2018-indirectcompetition.png",
+    "played": 0
+  },
+  {
+    "type": "Concept",
+    "point": 3,
+    "category": "Ecosystem",
+    "answer": "Asymmetric Competition",
+    "definition": "An unequal division of resources amongst competing plants.",
+    "source": "Freckleton & Watkinson 2001",
+    "img": "https://onlinelibrary.wiley.com/cms/asset/c3294a59-97f9-4538-ba8c-fce973b1b4ed/oik12861-fig-0004-m.jpg",
+    "played": 0
+  },
+  {
+    "type": "Concept",
+    "point": 2,
+    "category": "Biosphere",
+    "answer": "Autotroph",
+    "definition": "An organism that can produce its own food using light, water, carbon dioxide, or other chemicals.",
+    "source": "education.nationalgeographic.org",
+    "img": "https://static.javatpoint.com/definition/images/autotroph-definition2.png",
+    "played": 0
+  },
+  {
+    "type": "Organism",
+    "point": 3,
+    "category": "Population",
+    "answer": "Bacteriophage",
+    "definition": "Viruses that exclusively infect and kill bacteria.",
+    "source": "biomedcentral.com",
+    "img": "https://img.freepik.com/free-vector/diagram-showing-bacteriophage-anatomy_1308-3588.jpg",
+    "played": 0
+  },
+  {
+    "type": "Concept",
+    "point": 2,
+    "category": "Biosphere",
+    "answer": "Biological Species Concept",
+    "definition": "A group of organisms that can successfully interbreed and produce fertile offspring.",
+    "source": "sciencedirect.com",
+    "img": "https://o.quizlet.com/JL643GBNSwoiBOmu6Uiu6A.png",
+    "played": 0
+  },
+  {
+    "type": "Concept",
+    "point": 2,
+    "category": "Biosphere",
+    "answer": "Biomass",
+    "definition": "The total mass of living material provided by a given environment or ecosystem in a given time.",
+    "source": "Somayeh Naghiloo, Biomass Definition, study.com",
+    "img": "https://dr282zn36sxxg.cloudfront.net/datastreams/f-d%3Ad8f418421cbd3cf9b655120dcc84b301291fb7b80eb21754860934bf%2BIMAGE_TINY%2BIMAGE_TINY.1",
+    "played": 0
+  },
+  {
+    "type": "Concept",
+    "point": 2,
+    "category": "Ecosystem",
+    "answer": "Biotrophic Parasite",
+    "definition": "Parasitic fungi that obtain their nutrients from living plant cells.",
+    "source": "Redefining Plant-Necrotroph Interactions: The Thin Line Between Hemibiotrophs and Necrotrophs, frontiersin.org",
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS5ZtEr9x4CV-6zElQ5e62Z2j0WdmwZyq_j7Ohf-vHyuHENFVVkodYGqo8geEEd3H1EPMo&usqp=CAU",
+    "played": 0
+  },
+  {
+    "type": "Organism",
+    "point": 2,
+    "category": "Individual",
+    "answer": "Blue Whale",
+    "definition": "The largest animals ever known to have lived on Earth.",
+    "source": "nationalgeographic.com",
+    "img": "https://www.treehugger.com/thmb/IX5hq-NRXj9YTfKB4qK6qbdT9Hg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/11-facts-about-blue-whales-largest-animals-ever-known-earth-ADD-FINAL-a99cc86cbc0c49c3bd3e9265203ef7f4.png",
+    "played": 0
+  },
+  {
+    "type": "Concept",
+    "point": 3,
+    "category": "Population",
+    "answer": "Brood Parasitism",
+    "definition": "Is a reproductive strategy characterized by laying one's eggs into the nest of another.",
+    "source": "Rochelle Enrera, Brood Parasitism Definition, study.com",
+    "img": "https://study.com/cimages/multimages/16/Brood_parasitism.png",
+    "played": 0
+  },
+  {
+    "type": "Concept",
+    "point": 2,
+    "category": "Population",
+    "answer": "Capture-Recapture",
+    "definition": "The population estimation method consisting of obtaining, tagging, releasing, and then searching again for individuals within a population.",
+    "source": "NA",
+    "img": "https://ib.bioninja.com.au/_Media/mrr-method_med.jpeg",
+    "played": 0
+  },
+  {
+    "type": "Concept",
+    "point": 2,
+    "category": "Population",
+    "answer": "Carrying Capacity",
+    "definition": "The maximum number of organisms within a population that an area, or range, is able to sustain.",
+    "source": "Courtney Durso, Carrying Capacity, study.com",
+    "img": "https://sendthewholebattalion.files.wordpress.com/2015/12/carrying-capacity.jpg",
+    "played": 0
+  },
+  {
+    "type": "Concept",
+    "point": 3,
+    "category": "Population",
+    "answer": "Character Displacement",
+    "definition": "When two competing species in the same environment develop divergent traits in order to reduce competition between the species.",
+    "source": "Melissa Bialowas, Character Displacement, study.com",
+    "img": "https://dr282zn36sxxg.cloudfront.net/datastreams/f-d%3Aeb537624c2feb00692d8fef1cc91eaf5e5ebc43284fac7dbac6296b7%2BIMAGE_TINY%2BIMAGE_TINY.1",
+    "played": 0
+  },
+  {
+    "type": "Concept",
+    "point": 2,
+    "category": "Biosphere",
+    "answer": "Climate",
+    "definition": "The long-term pattern of weather in a particular area.",
+    "source": "education.nationalgeographic.org",
+    "img": "https://www.australianenvironmentaleducation.com.au/wp-content/uploads/2020/08/Climate-vs-weather-1.jpg",
+    "played": 0
+  },
+  {
+    "type": "Concept",
+    "point": 2,
+    "category": "Community",
+    "answer": "Coevolution",
+    "definition": "The process where two or more species evolve together due to their close ecological interactions.",
+    "source": "NA",
+    "img": "https://onlinelibrary.wiley.com/cms/asset/57327048-0bf9-40e3-914d-cd3543107091/mec13389-fig-0002-m.jpg",
+    "played": 0
+  },
+  {
+    "type": "Concept",
+    "point": 2,
+    "category": "Community",
+    "answer": "Commensalism",
+    "definition": "A relationship between individuals of two species in which one species obtains food or other benefits from the other without either harming or benefiting the latter.",
+    "source": "britannica.com",
+    "img": "https://www.thoughtco.com/thmb/LWdpOBAni-26Nwe2xkKMxPnTChg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/commensalism-definition-and-examples-4114713-v2-706cadecce404b008d6620bb061841cc.png",
+    "played": 0
+  },
+  {
+    "type": "Concept",
+    "point": 2,
+    "category": "Community",
+    "answer": "Competitive Exclusion Principle",
+    "definition": "This principle tells us that two species can't have exactly the same niche in a habitat and stably coexist.",
+    "source": "khanacademy.org",
+    "img": "https://facts.net/wp-content/uploads/2023/09/18-enigmatic-facts-about-competitive-exclusion-principle-1694018406.jpg",
+    "played": 0
+  },
+  {
+    "type": "Organism",
+    "point": 2,
+    "category": "Ecosystem",
+    "answer": "Coral Reef",
+    "definition": "They are among the most diverse and biologically complex ecosystems in the world. One-quarter of all marine life depends on them for food and shelter.",
+    "source": "epa.gov",
+    "img": "https://media.fisheries.noaa.gov/dam-migration-miss/md_0FOqZhWhLX7W.jpg?1506023384",
+    "played": 0
+  },
+  {
+    "type": "Concept",
+    "point": 3,
+    "category": "Biosphere",
+    "answer": "Desertification",
+    "definition": "Is a process of ecological degradation in which fertile land becomes arid and loses or reduces its productivity.",
+    "source": "iberdrola.com",
+    "img": "https://www.iberdrola.com/documents/20125/42541/Desertificacion_746x419.jpg/c83c1c04-5a1f-c171-733b-d132b852f6fb?t=1631776118778",
+    "played": 0
+  },
+  {
+    "type": "Factors",
+    "point": 5,
+    "category": "Ecosystem",
+    "answer": "Detritivores, Decomposers",
+    "definition": "The two groups of saprotrophs.",
+    "source": "NA",
+    "img": "https://slideplayer.com/slide/5742951/19/images/11/Detritivore+vs+Decomposers.jpg",
+    "played": 0
+  },
+  {
+    "type": "Concept",
+    "point": 2,
+    "category": "Population",
+    "answer": "Disease",
+    "definition": "A condition of the living animal or plant body or of one of its parts that impairs normal functioning and is typically manifested by distinguishing signs and symptoms.",
+    "source": "merriam-webster.com",
+    "img": "https://wp-cpr.s3.amazonaws.com/uploads/2019/07/348973624_700091962.jpg",
+    "played": 0
+  },
+  {
+    "type": "Concept",
+    "point": 3,
+    "category": "Population",
+    "answer": "Dormancy",
+    "definition": "An inactive period of an organism's life cycle that permits it to survive through phases of unfavorable conditions in highly variable environments.",
+    "source": "The Evolutionary Ecology of Dormancy in Nature and in Cancer, frontiersin.org",
+    "img": "https://www.sciencefacts.net/wp-content/uploads/2021/04/Seed-Dormancy.jpg",
+    "played": 0
+  },
+  {
+    "type": "Concept",
+    "point": 5,
+    "category": "Ecosystem",
+    "answer": "Ecological Resilience",
+    "definition": "The ability of an ecosystem to maintain its normal patterns of nutrient cycling and biomass production after being subjected to damage caused by an ecological disturbance.",
+    "source": "britannica.com",
+    "img": "https://flow-mer.org.au/wp-content/uploads/2021/03/resistance-vs-resilience.png.webp",
+    "played": 0
+  },
+  {
+    "type": "Concept",
+    "point": 2,
+    "category": "Individual",
+    "answer": "Ectotherm",
+    "definition": "Any animal whose regulation of body temperature depends on external sources, such as sunlight or a heated rock surface.",
+    "source": "botannica.com",
+    "img": "https://biocyclopedia.com/index/general_zoology/images/images34/fig018.jpg",
+    "played": 0
+  },
+  {
+    "type": "Concept",
+    "point": 3,
+    "category": "Biosphere",
+    "answer": "Endemic Species",
+    "definition": "Any species or other taxon whose geographic range or distribution is confined to a single given area.",
+    "source": "britannica.com",
+    "img": "https://en.pimg.jp/066/012/882/1/66012882.jpg",
+    "played": 0
+  },
+  {
+    "type": "Concept",
+    "point": 2,
+    "category": "Individual",
+    "answer": "Endotherm",
+    "definition": "Animals that maintain a constant body temperature independent of the environment.",
+    "source": "britannica.com",
+    "img": "https://biocyclopedia.com/index/general_zoology/images/images34/fig017.jpg",
+    "played": 0
+  },
+  {
+    "type": "Factors",
+    "point": 5,
+    "category": "Community",
+    "answer": "Energy Gain, Handling Time, Encounter Rate of Prey",
+    "definition": "Natural selection favors individuals who secure energy in the most efficient way. What are the 3 main factors affecting an organism's diet composition?",
+    "source": "NA",
+    "img": "https://ars.els-cdn.com/content/image/1-s2.0-S0960982222007084-gr2.jpg",
+    "played": 0
+  },
+  {
+    "type": "Concept",
+    "point": 5,
+    "category": "Biosphere",
+    "answer": "Environmental Heterogeneity",
+    "definition": "An umbrella concept representing the degree of non-uniformity in land cover, vegetation and physical factors (topography, soil, climate)",
+    "source": "Iryna Dronova, Environmental heterogeneity as a bridge between ecosystem service and visual quality objectives in management, planning and design, sciencedirect.com",
+    "img": "https://ars.els-cdn.com/content/image/1-s2.0-S0169204617300592-gr1.jpg",
+    "played": 0
+  },
+  {
+    "type": "Concept",
+    "point": 3,
+    "category": "Ecosystem",
+    "answer": "Ephemeral",
+    "definition": "Any short-lived plant, usually one that has one or more generations per year, growing only during favourable periods and passing the unfavourable periods in the form of seeds.",
+    "source": "britannica.com",
+    "img": "https://slideplayer.com/slide/3870684/13/images/22/Spring+Ephemeral+Developmental+Life+Cycle.jpg",
+    "played": 0
+  },
+  {
+    "type": "Concept",
+    "point": 2,
+    "category": "Ecosystem",
+    "answer": "Eutrophication",
+    "definition": "Excessive richness of nutrients in a lake or other body of water, frequently due to runoff from the land, which causes a dense growth of plant life and death of animal life from lack of oxygen.",
+    "source": "Oxford Languages",
+    "img": "https://www.shutterstock.com/image-photo/water-pollution-due-extensive-growth-260nw-1790448182.jpg",
+    "played": 0
+  },
+  {
+    "type": "Concept",
+    "point": 3,
+    "category": "Ecosystem",
+    "answer": "Exploitation Competition",
+    "definition": "Occurs when individuals interact indirectly as they compete for common resources, like territory, prey or food. Simply put, the use of the resource by one individual will decrease the amount available for other individuals.",
+    "source": "Jennifer M. Lang, Species Interactions and Competition, nature.com",
+    "img": "https://o.quizlet.com/8qswn1n4Aesd8u6VXHx0hA.jpg",
+    "played": 0
+  },
+  {
+    "type": "Concept",
+    "point": 2,
+    "category": "Community",
+    "answer": "Fauna",
+    "definition": "A generic term for the list of animal species occurring in a particular, large region.",
+    "source": "encyclopedia.com",
+    "img": "https://res.cloudinary.com/dk-find-out/image/upload/q_80,w_1920,f_auto/Animal_kingdom_nzwbda.jpg",
+    "played": 0
+  },
+  {
+    "type": "Concept",
+    "point": 2,
+    "category": "Ecosystem",
+    "answer": "Fundamental Ecological Niche",
+    "definition": "The conceptual boundaries that limit the environmental conditions where a species can live, grow, and reproduce, assuming no competition or limiting factors.",
+    "source": "NA",
+    "img": "https://ib.bioninja.com.au/_Media/barnacle1_med.jpeg",
+    "played": 0
+  },
+  {
+    "type": "Organism",
+    "point": 2,
+    "category": "Population",
+    "answer": "Galapagos Finches",
+    "definition": "These animals are well-known for being observed by Charles Darwin to support the theory of evolution.",
+    "source": "NA",
+    "img": "https://i0.wp.com/blog.education.nationalgeographic.org/wp-content/uploads/2015/05/galapagosfinches.jpg?ssl=1",
+    "played": 0
+  },
+  {
+    "type": "Concept",
+    "point": 3,
+    "category": "Community",
+    "answer": "Gall",
+    "definition": "An abnormal, localized outgrowth or swelling of plant tissue caused by infection from bacteria, fungi, viruses, and nematodes or irritation by insects and mites.",
+    "source": "britannica.com",
+    "img": "https://naturallycuriouswithmaryholland.files.wordpress.com/2019/10/11-4-19-oak-leaf-galls-1.jpg",
+    "played": 0
+  },
+  {
+    "type": "Concept",
+    "point": 3,
+    "category": "Biosphere",
+    "answer": "Generalist Species",
+    "definition": "Species that can live in many different types of environments, and have a varied diet.",
+    "source": "College of Veterinary Medicine University of Illinois",
+    "img": "https://wildlifeinformer.com/wp-content/uploads/2023/04/american-cockroach.jpg",
+    "played": 0
+  },
+  {
+    "type": "Concept",
+    "point": 2,
+    "category": "Biosphere",
+    "answer": "Genetically Modified Organisms",
+    "definition": "An animal, plant, or microbe whose DNA has been altered using genetic engineering techniques.",
+    "source": "education.nationalgeographic.org",
+    "img": "https://d20khd7ddkh5ls.cloudfront.net/gmo_insert_dna.png",
+    "played": 0
+  },
+  {
+    "type": "Factors",
+    "point": 5,
+    "category": "Biosphere",
+    "answer": "Geographic Variation, Genetic Variation, Manmade Selection Pressure",
+    "definition": "What are the three main causes of specialization within species?",
+    "source": "NA",
+    "img": "https://bpb-us-w2.wpmucdn.com/sites.gatech.edu/dist/6/1809/files/2015/08/beetlespeciation.gif",
+    "played": 0
+  },
+  {
+    "type": "Concept",
+    "point": 2,
+    "category": "Biosphere",
+    "answer": "Global Warming",
+    "definition": "The phenomenon of increasing average air temperatures near the surface of Earth over the past one to two centuries.",
+    "source": "britannica.com",
+    "img": "https://as1.ftcdn.net/v2/jpg/05/77/08/86/1000_F_577088607_sP5wLrocCCZa1RBMlwqbP9IAg3lkmkyk.jpg",
+    "played": 0
+  },
+  {
+    "type": "Concept",
+    "point": 2,
+    "category": "Ecosystem",
+    "answer": "Grassland",
+    "definition": "Ecosystems characterized by a relatively high cover of grasses and other graminoid vegetation in an open, often rolling, landscape with little or no cover of trees and shrubs.",
+    "source": "Kansas State University",
+    "img": "https://www.frontiersin.org/files/special%20topics/21542/thumb_400.jpg",
+    "played": 0
+  },
+  {
+    "type": "Concept",
+    "point": 2,
+    "category": "Biosphere",
+    "answer": "Greenhouse Gases",
+    "definition": "Gases like carbon dioxide, methane, and nitrous oxide that keep the Earth warmer than it would be without them.",
+    "source": "MIT Climate Portal",
+    "img": "https://shrinkthatfootprint.com/wp-content/uploads/2022/07/Greenhouse-gas-infographic.png",
+    "played": 0
+  },
+  {
+    "type": "Concept",
+    "point": 2,
+    "category": "Community",
+    "answer": "Herbivore",
+    "definition": "Animal adapted to subsist solely on plant tissues.",
+    "source": "britannica.com",
+    "img": "https://www.activewild.com/wp-content/uploads/2023/02/Examples-Of-Herbivores.jpg",
+    "played": 0
+  },
+  {
+    "type": "Concept",
+    "point": 3,
+    "category": "Population",
+    "answer": "Hermaphroditism",
+    "definition": "The condition of having both male and female reproductive organs.",
+    "source": "britannica.com",
+    "img": "https://plantsbank.com/wp-content/uploads/2022/03/Labeled-Diagram-Anatomy-Flower-Mature-41571.png",
+    "played": 0
+  },
+  {
+    "type": "Concept",
+    "point": 2,
+    "category": "Community",
+    "answer": "Heterotroph",
+    "definition": "An organism that consumes other organisms in a food chain.",
+    "source": "britannica.com",
+    "img": "https://www.sciencefacts.net/wp-content/uploads/2022/04/Heterotroph.jpg",
+    "played": 0
+  },
+  {
+    "type": "Concept",
+    "point": 2,
+    "category": "Community",
+    "answer": "Host",
+    "definition": "An organism that has a parasite living in or on it.",
+    "source": "NA",
+    "img": "https://www.cdc.gov/ticks/images/surveillance/TickLifeCycle_I_scapularis_092118.jpg",
+    "played": 0
+  },
+  {
+    "type": "Concept",
+    "point": 2,
+    "category": "Ecosystem",
+    "answer": "Humus",
+    "definition": "Dark, organic material that forms in soil when plant and animal matter decays.",
+    "source": "education.nationalgeographic.org",
+    "img": "https://asapeducate.com/wp-content/uploads/2023/02/soil-1.jpg",
+    "played": 0
+  },
+  {
+    "type": "Concept",
+    "point": 3,
+    "category": "Community",
+    "answer": "Hybridization",
+    "definition": "The breeding of two different organisms from genetically diverse groups or species.",
+    "source": "vedantu.com",
+    "img": "https://cdn.britannica.com/07/215707-050-46A4E77F/lions-tigers-ligers-tigons-mammals.jpg",
+    "played": 0
+  },
+  {
+    "type": "Organism",
+    "point": 2,
+    "category": "Individual",
+    "answer": "Hyenas",
+    "definition": "They look like dogs but are not related to them and some make a sound that resembles maniac giggling.",
+    "source": "NA",
+    "img": "https://www.treehugger.com/thmb/6LM_U8u8GDW2uyP-8ENj2O7fpSc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/GettyImages-1294142551-6b4e07fe31c445ad86037b507a7567db.jpg",
+    "played": 0
+  },
+  {
+    "type": "Concept",
+    "point": 3,
+    "category": "Population",
+    "answer": "Inbreeding",
+    "definition": "The mating of individuals that are closely related through common ancestry. It often results in decreased vigour, size, and fertility of the offspring because of the combined effect of harmful genes that were recessive in both parents.",
+    "source": "britannica.com",
+    "img": "https://cdn1.byjus.com/wp-content/uploads/2018/11/biology/2018/02/13113250/bio_pic3.jpg",
+    "played": 0
+  },
+  {
+    "type": "Concept",
+    "point": 2,
+    "category": "Community",
+    "answer": "Interference Competition",
+    "definition": "Occurs directly between individuals via aggression when the individuals hinder foraging, survival, reproduction of others, or by directly preventing their physical establishment in a portion of the habitat.",
+    "source": "bio.libretexts.org",
+    "img": "https://www.thesun.co.uk/wp-content/uploads/2017/01/composite-fighting-hyenas.jpg?strip=all&w=750&h=500&crop=1",
+    "played": 0
+  },
+  {
+    "type": "Concept",
+    "point": 2,
+    "category": "Ecosystem",
+    "answer": "Interspecific Competition",
+    "definition": "When individuals of two separate species share a limiting resource in the same area.",
+    "source": "bio.libretexts.org",
+    "img": "https://www.pathwayz.org/Node/Image/url/aHR0cHM6Ly9pLmltZ3VyLmNvbS8wUXF2ZXhULnBuZw==",
+    "played": 0
+  },
+  {
+    "type": "Concept",
+    "point": 3,
+    "category": "Population",
+    "answer": "Iteroparity",
+    "definition": "The strategy of reproducing several or many times during a lifetime.",
+    "source": "Oxford Reference",
+    "img": "https://www.veterinariadrbrenes.com/wp-content/uploads/2019/10/C%C3%B3mo-seleccionar-a-un-perro-dentro-de-una-camada-blog.jpg",
+    "played": 0
+  },
+  {
+    "type": "Concept",
+    "point": 3,
+    "category": "Community",
+    "answer": "Keystone Species",
+    "definition": "A species that has a significant impact on its community or ecosystem, such that its removal leads to major changes.",
+    "source": "NA",
+    "img": "https://study.com/cimages/multimages/16/keystone_wolves5522286526612402094.png",
+    "played": 0
+  },
+  {
+    "type": "Organism",
+    "point": 2,
+    "category": "Individual",
+    "answer": "Komodo Dragon",
+    "definition": "The largest, heaviest lizards in the world and one of the few with a venomous bite.",
+    "source": "Smithsonian's National Zoo",
+    "img": "https://www.wandernesia.com/wp-content/uploads/2019/05/komodo-hunting-rey.jpg",
+    "played": 0
+  },
+  {
+    "type": "Concept",
+    "point": 5,
+    "category": "Population",
+    "answer": "Local Adaptation",
+    "definition": "The process by which a population of organisms evolves to become better suited to its environment than other members of the same species.",
+    "source": "collinsdictionary.com",
+    "img": "https://slideplayer.com/slide/14046328/86/images/64/Beach+mice+have+light+tan%2C+dappled+coats.+Members+of+the+same+species.jpg",
+    "played": 0
+  },
+  {
+    "type": "Concept",
+    "point": 3,
+    "category": "Individual",
+    "answer": "Macroparasite",
+    "definition": "Multicellular organisms that typically do not multiply within their final or definitive host, but instead produce transmission stages (eggs and larvae) that pass into the external environment.",
+    "source": "Kenneth Wilson, Sheena C. Cotter, in Advances in the Study of Behavior, 2013",
+    "img": "https://slidetodoc.com/presentation_image_h/bda4f6ff7ee6e2b702542460a009ea32/image-10.jpg",
+    "played": 0
+  },
+  {
+    "type": "Organism",
+    "point": 2,
+    "category": "Individual",
+    "answer": "Mangrove",
+    "definition": "Shrubs or trees growing along the coasts of tropical and subtropical seas and rivers or at the intersections of seas and rivers that serve many ecological functions.",
+    "source": "NA",
+    "img": "https://ozfish.org.au/wp-content/uploads/2020/11/AdobeStock_77464741web2-1200x738.jpg",
+    "played": 0
+  },
+  {
+    "type": "Concept",
+    "point": 2,
+    "category": "Biosphere",
+    "answer": "Manmade Selection Pressure",
+    "definition": "The mechanism that caused the polymorphism in the body color of the peppered moth.",
+    "source": "NA",
+    "img": "https://ib.bioninja.com.au/_Media/peppered-moth-graph_med.jpeg",
+    "played": 0
+  },
+  {
+    "type": "Concept",
+    "point": 3,
+    "category": "Biosphere",
+    "answer": "Mass Extinction",
+    "definition": "Any circumstance that results in the loss of a significant portion of Earth?�?s living species across a wide geographic area within a relatively short period of geologic time.",
+    "source": "britannica.com",
+    "img": "https://scx2.b-cdn.net/gfx/news/2020/23-discoveryofa.jpg",
+    "played": 0
+  },
+  {
+    "type": "Concept",
+    "point": 3,
+    "category": "Ecosystem",
+    "answer": "Microhabitat",
+    "definition": "A small area which differs somehow from the surrounding natural environment. Its unique conditions may be home to species that may not be found in the larger region.",
+    "source": "education.nationalgeographic.org",
+    "img": "https://www.broadheath.coventry.sch.uk/wp-content/uploads/2020/06/5-1.jpg",
+    "played": 0
+  },
+  {
+    "type": "Concept",
+    "point": 3,
+    "category": "Individual",
+    "answer": "Microparasite",
+    "definition": "Characterized by small size, short generation times, and a tendency to induce immunity to re-infection in those hosts that survive.",
+    "source": "biologyonline.com",
+    "img": "https://www.mybiosource.com/learn/wp-content/uploads/2021/05/Header-09.jpg",
+    "played": 0
+  },
+  {
+    "type": "Concept",
+    "point": 5,
+    "category": "Ecosystem",
+    "answer": "Modular Organism",
+    "definition": "The type of individual in which development timing and form strongly depend on interactions with the environment.",
+    "source": "NA",
+    "img": "https://image2.slideserve.com/5320837/more-classic-modular-organisms-l.jpg",
+    "played": 0
+  },
+  {
+    "type": "Organism",
+    "point": 2,
+    "category": "Individual",
+    "answer": "Monarch Butterfly",
+    "definition": "A large migratory insect that has orange-brown wings with black veins and borders and a larva that feeds on milkweed.",
+    "source": "NA",
+    "img": "https://www.mdwfp.com/media/257767/monarch-migration.jpg",
+    "played": 0
+  },
+  {
+    "type": "Concept",
+    "point": 3,
+    "category": "Community",
+    "answer": "Monophagous",
+    "definition": "Organisms that feed solely on a single kind of plant or animal.",
+    "source": "NA",
+    "img": "https://www.kauaiisc.org/wp-content/uploads/cbb-composite.jpg",
+    "played": 0
+  },
+  {
+    "type": "Concept",
+    "point": 3,
+    "category": "Community",
+    "answer": "Mutual Antagonism",
+    "definition": "A relationship in which the effect of competition between two or more species exceeds that of competition within each species.",
+    "source": "encyclopedia.com",
+    "img": "https://www.frontiersin.org/files/Articles/618251/fevo-09-618251-HTML/image_m/fevo-09-618251-g001.jpg",
+    "played": 0
+  },
+  {
+    "type": "Concept",
+    "point": 2,
+    "category": "Community",
+    "answer": "Mutualism",
+    "definition": "Association between organisms of two different species in which each benefits.",
+    "source": "britannica.com",
+    "img": "https://www.sciencefacts.net/wp-content/uploads/2023/05/Mutualism.jpg",
+    "played": 0
+  },
+  {
+    "type": "Factors",
+    "point": 5,
+    "category": "Community",
+    "answer": "Mutualism, Commensalism, Parasitism",
+    "definition": "Name the three main symbiotic relationships.",
+    "source": "NA",
+    "img": "https://nittygrittyscience.com/wp-content/uploads/symbiosis-1024x1024.jpg",
+    "played": 0
+  },
+  {
+    "type": "Concept",
+    "point": 3,
+    "category": "Biosphere",
+    "answer": "Natural Selection",
+    "definition": "The process whereby organisms better adapted to their environment tend to survive and produce more offspring.",
+    "source": "Oxford Languages",
+    "img": "https://www.solpass.org/science6-8-new/s7/images-life/Natural-Selection-Giraffes.png",
+    "played": 0
+  },
+  {
+    "type": "Concept",
+    "point": 3,
+    "category": "Community",
+    "answer": "Necrotrophic Parasite",
+    "definition": "Obtains its nutrients from dead cells and tissues of its host organism.",
+    "source": "Oxford Reference",
+    "img": "https://bsppjournals.onlinelibrary.wiley.com/cms/asset/fd27bc83-2921-40f8-b2d1-abf579470212/mpp12794-fig-0001-m.jpg",
+    "played": 0
+  },
+  {
+    "type": "Organism",
+    "point": 2,
+    "category": "Individual",
+    "answer": "Octopus",
+    "definition": "A sea animal with eight limbs and three hearts.",
+    "source": "NA",
+    "img": "https://a-z-animals.com/media/2022/11/shutterstock_1340447465-1024x729.jpg",
+    "played": 0
+  },
+  {
+    "type": "Concept",
+    "point": 3,
+    "category": "Individual",
+    "answer": "Optimal Foraging Strategy",
+    "definition": "Optimizing the balance between the energy expended in acquiring food and the energy gained from foods.",
+    "source": "NA",
+    "img": "https://ib.bioninja.com.au/_Media/foraging_med.jpeg",
+    "played": 0
+  },
+  {
+    "type": "Concept",
+    "point": 3,
+    "category": "Population",
+    "answer": "Outbreeding",
+    "definition": "The mating or breeding of distantly related or unrelated individuals.",
+    "source": "dictionary.com",
+    "img": "https://qph.cf2.quoracdn.net/main-qimg-8c9a99f68431a7acbbfe7560cb701e94-lq",
+    "played": 0
+  },
+  {
+    "type": "Organism",
+    "point": 2,
+    "category": "Individual",
+    "answer": "Pangolin",
+    "definition": "A scaled ant-eating mammal that rolls up when it feels threatened.",
+    "source": "NA",
+    "img": "https://wildaid.org/wp-content/uploads/2020/06/Screen-Shot-2020-06-09-at-8.25.53-AM.png",
+    "played": 0
+  },
+  {
+    "type": "Organism",
+    "point": 2,
+    "category": "Individual",
+    "answer": "Parasite",
+    "definition": "An organism that lives on or in a host organism and gets its food from or at the expense of its host.",
+    "source": "cdc.gov",
+    "img": "https://i0.wp.com/microbeonline.com/wp-content/uploads/2022/02/Parasites.png?ssl=1",
+    "played": 0
+  },
+  {
+    "type": "Concept",
+    "point": 3,
+    "category": "Population",
+    "answer": "Passive Dispersal",
+    "definition": "Cannot occur without assistance from the ecosystem. Many plants require mechanisms (ex. wind) to move their seeds from one place to another.",
+    "source": "NA",
+    "img": "https://www.shutterstock.com/image-vector/seed-dispersal-vector-illustration-labeled-260nw-1689714946.jpg",
+    "played": 0
+  },
+  {
+    "type": "Factors",
+    "point": 5,
+    "category": "Biosphere",
+    "answer": "Past population, Births, Deaths, Emigration, Immigration",
+    "definition": "The five parameters used to describe, explain, and understand the distribution and abundance of organisms.",
+    "source": "NA",
+    "img": "https://o.quizlet.com/svdXOWZMlZI-aHqFlkrDNw.png",
+    "played": 0
+  },
+  {
+    "type": "Organism",
+    "point": 2,
+    "category": "Individual",
+    "answer": "Pathogen",
+    "definition": "Microscopic organisms, including viruses, bacteria, fungi, and parasites that can cause diseases in humans, animals, and plants.",
+    "source": "biologyonline.com",
+    "img": "https://ib.bioninja.com.au/_Media/pathogens_med.jpeg",
+    "played": 0
+  },
+  {
+    "type": "Organism",
+    "point": 2,
+    "category": "Individual",
+    "answer": "Pinguin",
+    "definition": "Flightless seabirds that live almost exclusively below the equator. Some island-dwellers can be found in warmer climates, but most reside in and around icy Antarctica.",
+    "source": "nationalgeographic.com",
+    "img": "https://insideclimatenews.org/wp-content/uploads/2023/08/GettyImages-453625450-scaled.jpg",
+    "played": 0
+  },
+  {
+    "type": "Concept",
+    "point": 5,
+    "category": "Individual",
+    "answer": "Philopatry",
+    "definition": "The tendency of an animal to remain in or return to the area of its birth.",
+    "source": "merriam-webster.com",
+    "img": "https://ars.els-cdn.com/content/image/3-s2.0-B9780444529602500035-f02-38-9780444529602.jpg",
+    "played": 0
+  },
+  {
+    "type": "Concept",
+    "point": 3,
+    "category": "Population",
+    "answer": "Polymorphism",
+    "definition": "The occurrence of two or more clearly different forms (or phenotypes) in the population of a species occupying the same habitat at the same time.",
+    "source": "NA",
+    "img": "https://ars.els-cdn.com/content/image/1-s2.0-S0960982215006612-gr1.jpg",
+    "played": 0
+  },
+  {
+    "type": "Concept",
+    "point": 2,
+    "category": "Community",
+    "answer": "Predation",
+    "definition": "In animal behaviour, the pursuit, capture, and killing of animals for food.",
+    "source": "britannica.com",
+    "img": "https://scx2.b-cdn.net/gfx/news/hires/2015/55e832b3e424a.jpg",
+    "played": 0
+  },
+  {
+    "type": "Concept",
+    "point": 2,
+    "category": "Population",
+    "answer": "Quadrat Sampling",
+    "definition": "A population estimation method by which organisms in a given area of habitat are counted directly by random sampling using squares of a set size.",
+    "source": "NA",
+    "img": "https://mmerevise.co.uk/app/uploads/2022/08/Quadrats.png",
+    "played": 0
+  },
+  {
+    "type": "Factors",
+    "point": 5,
+    "category": "Population",
+    "answer": "Random, Regular, Aggregated Distributions",
+    "definition": "What are the three main spatial patterns of distribution of organisms?",
+    "source": "NA",
+    "img": "https://www.oreilly.com/api/v2/epubs/9780470510247/files/images/p749-001.jpg",
+    "played": 0
+  },
+  {
+    "type": "Concept",
+    "point": 2,
+    "category": "Ecosystem",
+    "answer": "Realized Niche",
+    "definition": "The set of conditions actually used by a given animal after interactions with other species.",
+    "source": "montana.edu",
+    "img": "https://ib.bioninja.com.au/_Media/barnacle1_med.jpeg",
+    "played": 0
+  },
+  {
+    "type": "Concept",
+    "point": 2,
+    "category": "Ecosystem",
+    "answer": "Resource Partitioning",
+    "definition": "When different species in an ecosystem divide the available resources to avoid direct competition.",
+    "source": "NA",
+    "img": "https://www.zo.utexas.edu/faculty/sjasper/images/f38.11.jpg",
+    "played": 0
+  },
+  {
+    "type": "Concept",
+    "point": 3,
+    "category": "Population",
+    "answer": "Selfish Herd",
+    "definition": "Describes how individuals can reduce risk of predation by moving to specific positions within the group.",
+    "source": "Oxford Academic",
+    "img": "https://image2.slideserve.com/4124390/selfish-herd-theory-middle-is-safest-place-to-be-l.jpg",
+    "played": 0
+  },
+  {
+    "type": "Concept",
+    "point": 3,
+    "category": "Population",
+    "answer": "Semelparity",
+    "definition": "Reproducing or breeding only once in a lifetime.",
+    "source": "merriam-webster.com",
+    "img": "https://www.sciencenews.org/wp-content/uploads/2018/06/060618_lr_quoll_feat.jpg",
+    "played": 0
+  },
+  {
+    "type": "Concept",
+    "point": 3,
+    "category": "Individual",
+    "answer": "Senescence",
+    "definition": "The biological process of aging or the breakdown of the physical body while growing older.",
+    "source": "Lesa Steen, Senescence Definition & Changes, study.com",
+    "img": "https://www.mdpi.com/plants/plants-10-01490/article_deploy/html/images/plants-10-01490-g001.png",
+    "played": 0
+  },
+  {
+    "type": "Concept",
+    "point": 3,
+    "category": "Biosphere",
+    "answer": "Specialist Species",
+    "definition": "Animals that require very unique resources. Often, these species have a very limited diet, or need a specific habitat condition to survive.",
+    "source": "Wildlife Encounters: Adaptations, College of Veterinary Medicine University of Illinois",
+    "img": "https://images.nationalgeographic.org/image/upload/v1638892289/EducationHub/photos/clinging-to-mom.jpg",
+    "played": 0
+  },
+  {
+    "type": "Concept",
+    "point": 3,
+    "category": "Community",
+    "answer": "Species Coexistence",
+    "definition": "The persistence of species in the presence of others, interacting with each other.",
+    "source": "NA",
+    "img": "https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fnature22898/MediaObjects/41586_2017_Article_BFnature22898_Fig1_HTML.jpg",
+    "played": 0
+  },
+  {
+    "type": "Factors",
+    "point": 5,
+    "category": "Biosphere",
+    "answer": "Temperature, Precipitation, Humidity, pH, Salinity, Wind/Waves/Currents",
+    "definition": "Name three environmental conditions.",
+    "source": "NA",
+    "img": "https://ugc.berkeley.edu/wp-content/uploads/2015/12/Evolution_UGC_SystemModel.jpg",
+    "played": 0
+  },
+  {
+    "type": "Concept",
+    "point": 3,
+    "category": "Ecosystem",
+    "answer": "Territoriality",
+    "definition": "Refers to how an animal or a group of animals defends their home from intruders of the same species.",
+    "source": "vedantu.com",
+    "img": "https://cdn.britannica.com/46/96846-050-0EC9EF8A/Hawk-Dove-model-benefits-resources-costs-animal-behavior.jpg",
+    "played": 0
+  },
+  {
+    "type": "Concept",
+    "point": 2,
+    "category": "Ecosystem",
+    "answer": "Tundra",
+    "definition": "A major zone of treeless level or rolling ground found in cold regions, mostly north of the Arctic Circle or above the timberline on high mountains.",
+    "source": "britannica.com",
+    "img": "https://bioexpedition.com/wp-content/uploads/2012/04/Tundra_Biome_600.jpg",
+    "played": 0
+  },
+  {
+    "type": "Concept",
+    "point": 5,
+    "category": "Individual",
+    "answer": "Unitary Organisms",
+    "definition": "Organisms that have highly determinate forms governed by their genetic make-up.",
+    "source": "Casey Jon Vea, bartleby.com",
+    "img": "https://www.coolantarctica.com/gallery/seals/mother_pup22_med.jpg",
+    "played": 0
+  },
+  {
+    "type": "Organism",
+    "point": 2,
+    "category": "Individual",
+    "answer": "Venus Flytrap",
+    "definition": "Perennial carnivorous plant of the sundew family, notable for its unusual habit of catching and digesting insects and other small animals.",
+    "source": "britannica.com",
+    "img": "https://images.thdstatic.com/productImages/2607f97d-c290-4f10-9ea4-95ad206e265c/svn/altman-plants-house-plants-0881351-44_600.jpg",
+    "played": 0
+  },
+  {
+    "type": "Concept",
+    "point": 5,
+    "category": "Biosphere",
+    "answer": "Zonation",
+    "definition": "The patterns that are observed in a community over a distance, based on the distinct fauna and flora found along the area.",
+    "source": "biologydictionary.net",
+    "img": "https://www.vcbio.science.ru.nl/images/landscape/landscape-vertical_zonation_eng.jpg",
+    "played": 0
+  }
+]

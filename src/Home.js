@@ -3,7 +3,7 @@ import React from "react";
 import Card from "./Card";
 import Button from "@mui/material/Button";
 import Stack from "@mui/material/Stack";
-
+import cards_db from "./db.json";
 function getRandomInt(max) {
   return Math.floor(Math.random() * max);
 }
@@ -13,19 +13,23 @@ const Home = ({ category }) => {
   const [Data, setData] = useState([]);
   const [catNow, setCatNow] = useState([]);
 
+  // useEffect(() => {
+  //   // command to run json server
+  //   // npx json-server --watch data/db.json --port 8000
+  //   fetch("http://localhost:8000/cards")
+  //     .then((res) => {
+  //       return res.json();
+  //     })
+  //     .then((data) => {
+  //       setData(data);
+  //       setCards(data[0]);
+  //       setIsPending(false);
+  //     });
+  // }, []);
   useEffect(() => {
-    // command to run json server
-    // npx json-server --watch data/db.json --port 8000
-    fetch("http://localhost:8000/cards")
-      .then((res) => {
-        return res.json();
-      })
-      .then((data) => {
-        setData(data);
-        setCards(data[0]);
-        setIsPending(false);
-      });
-  }, []);
+    setData(cards_db);
+  }, [cards_db]);
+
   useEffect(() => {
     console.log("category", category);
     if (Data.length !== 0) {
