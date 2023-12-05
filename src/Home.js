@@ -28,6 +28,7 @@ const Home = ({ category }) => {
   // }, []);
   useEffect(() => {
     setData(cards_db);
+    setIsPending(false);
   }, [cards_db]);
 
   useEffect(() => {
