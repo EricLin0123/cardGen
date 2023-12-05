@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "e32d8500cf532f8cbbde426528549385",
+    "revision": "ceb9cea0bc7a88ac26349506374c5c0b",
     "url": "/cardGen/index.html"
   },
   {
-    "revision": "c47932bb676ec04f68c3",
+    "revision": "9a83f949991b6be2e7e6",
     "url": "/cardGen/static/css/main.ef4bdfba.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/cardGen/static/js/3.559b0a6c.chunk.js"
   },
   {
-    "revision": "c47932bb676ec04f68c3",
-    "url": "/cardGen/static/js/main.8c22eb35.chunk.js"
+    "revision": "9a83f949991b6be2e7e6",
+    "url": "/cardGen/static/js/main.6dc5d826.chunk.js"
   },
   {
     "revision": "429c3ef62601be37c90c",
